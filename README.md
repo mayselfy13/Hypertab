@@ -35,14 +35,4 @@ You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. They ar
     <a href="https://railway.app/new/template/EBnCyy?referralCode=8zUUBB"><img height="30px" src="https://img.shields.io/badge/Railway-%234f0599.svg?style=for-the-badge&logo=railway&logoColor=white"><img></a>
 </div>
 
-## Discord Server
-
-Press the join button to join the server:
-
-[![Join us on Discord](https://invidget.switchblade.xyz/J3VPy5Vy8x?theme=light)](https://discord.gg/J3VPy5Vy8x)
-
-## Credits
-
-- [B3ATDROP3R](https://github.com/B3ATDROP3R)
-- [Caracal.js](https://github.com/caracal-js)
-- [luphoria](https://github.com/luphoria)
+## LUIS THIS IS FOR YOU
